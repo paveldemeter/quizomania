@@ -13,12 +13,12 @@
 Are you ever bored sitting around doing nothing? 
 Do your kids always play games that have no benefit to them?
 
+
 Let me introduce to you..
 #### Quiz-O-Mania
 Quiz-O-Mania is a single player multiple choice Quiz game that ensures you are both having fun & learning something new! It is very easy to use so any player of any age can play as it includes a HELP menu & provides direct instructions on how to play the game.
 
-Anybody can play this game as no one is old enough to stop learning. You will have different Genre's to choose from such as Music, History & Movies.
-Each question will have four options for answers, But be careful.. Some are tricky!
+Anybody can play this game as no one is old enough to stop learning. You will have different Genre's to choose from such as Music, History & Movies. Each question will have four options for answers, But be careful.. Some are tricky!
 
 I have developed this quiz to improve your and my knowledge of the "Trivia World" we live in (also for all procrastinators out there to fill up their existence of boredom).
 
@@ -30,7 +30,7 @@ The first feature this application has is the 'Genre Selection'. 'Genre selectio
 
 The second feature this application has is the 'Help Section'. The Help Section was implemented by creating a method which puts instructions on how to play the game & rules. The unless statement was implemented which exits unless you input the key 'y'.
   
-The third feature this application has is the 'Score'. The 'Score' was implemented by creating a score variable with an 'if' statement which increments by 1. The score feature then puts out a string with string interpolation of 'score and 'quiz.length' after each game is completed.
+The third feature this application has is the 'Score'. The 'Score' was implemented by creating a score variable with an 'if' statement which increments by 1. The score feature then puts out a string with string interpolation of 'score' after each game is completed.
 
 ---
 
