@@ -99,7 +99,7 @@ Open up terminal and navigate to the directory that contains the terminal app fi
 ### User Stories
 ![alt text](implementation1.png)
 
-![alt text](implementation2png)
+![alt text](implementation2.png)
 
 ![alt text](implementation3.png)
 
