@@ -97,15 +97,14 @@ Open up terminal and navigate to the directory that contains the terminal app fi
 
 
 ### User Stories
-![alt text](IMPLEMENTATION PLAN FIRST.png)
+![alt text](implementation1.png)
 
-![alt text](IMPLEMENTATION PLAN FIRST.png)
+![alt text](implementation2png)
 
-![alt text](IMPLEMENTATION PLAN SECOND.png)
+![alt text](implementation3.png)
 
-![alt text](IMPLEMENTATION PLAN THIRD.png)
+![alt text](implementation4.png)
 
-![alt text](IMPLEMENTATION PLAN LAST.png)
 
 
 
@@ -114,7 +113,6 @@ Open up terminal and navigate to the directory that contains the terminal app fi
 
 
   
-
   
 
 ### User Workflow
