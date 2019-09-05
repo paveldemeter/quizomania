@@ -101,11 +101,11 @@ Open up terminal and navigate to the directory that contains the terminal app fi
 
 ![alt text](IMPLEMENTATION PLAN FIRST.png)
 
-![alt text](IMPLEMENTATION PLAN SECOND)
+![alt text](IMPLEMENTATION PLAN SECOND.png)
 
-![alt text](IMPLEMENTATION PLAN THIRD)
+![alt text](IMPLEMENTATION PLAN THIRD.png)
 
-![alt text](IMPLEMENTATION PLAN LAST)
+![alt text](IMPLEMENTATION PLAN LAST.png)
 
 
 
