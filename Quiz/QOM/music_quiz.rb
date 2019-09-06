@@ -1,3 +1,4 @@
+# require the classes that are needed
 require_relative 'class_quizmaker'
 require_relative 'question_class'
 
@@ -12,6 +13,7 @@ p8 = "Question 8\nFreddie Mercury was The Lead Vocalist of...\n(a)Red Hot Chilli
 p9 = "Question 9\nThe 'His palms are sweaty, knees weak, arms are heavy' line is from which song?\n(a)Lose yourself - Eminem\n(b)Juicy - Biggie Smalls\n(c)Hit Em Up - Tupac\n(d)99 Problems - Jay Z"
 p10 = "Question 10\nWhat was Tupac Amaru Shakur's Real name?\n(a)Curits James Jackson\n(b)Christopher Wallace\n(c)Lesane Parish Crooks\n(d)Calvin Cordozar Broadus Jr."
 
+# create a list of all questions and answers
 quiz = [
   Question.new(p1, 'b'),
   Question.new(p2, 'b'),
@@ -24,5 +26,5 @@ quiz = [
   Question.new(p9, 'a'),
   Question.new(p10, 'c')
 ]
-
+# create the quiz with the questions and answers and make it a constant so it can be used outside the file
 Music_quiz = Quiz_maker.new(quiz)

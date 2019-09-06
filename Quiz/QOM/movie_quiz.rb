@@ -1,3 +1,4 @@
+# require the classes that are needed
 require_relative 'class_quizmaker'
 require_relative 'question_class'
 
@@ -12,6 +13,7 @@ p8 = "Question 8\nThe DC Character Harley Quinn was..\n(a)The Batmans Girlfriend
 p9 = "Question 9\nWho starred in The Matrix as 'Neo'?\n(a)Will Smith\n(b)Keanu Reeves\n(c)Brad Pitt\n(d)Tom Cruise"
 p10 = "Question 10\n'I'll Be Back', Was said by which Character?\n(a)The Terminator\n(b)The Rock\n(c)Indiana Jones\n(d)None of the above"
 
+# create a list of all questions and answers
 quiz = [
   Question.new(p1,  'd'),
   Question.new(p2,  'c'),
@@ -25,4 +27,5 @@ quiz = [
   Question.new(p10, 'a')
 ]
 
+# create the quiz with the questions and answers and make it a constant so it can be used outside the file
 Movie_quiz = Quiz_maker.new(quiz)
