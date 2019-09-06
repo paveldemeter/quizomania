@@ -127,6 +127,14 @@ Open up terminal and navigate to the directory that contains the terminal app fi
 
 - Slack
 
+### Issues during developing
+
+I had some issues with GIT & TTD.
+
+I figured out how to add files to github using git after completing my program. 
+I then commited several changes, aimed for 22. I also did alot of reserch for
+TDD & I included a User X log & a single TDD file. 
+
 
 
   
