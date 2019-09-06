@@ -54,9 +54,6 @@ User then has two options, "Press (Y) to go back to Main Menu" or "Press any oth
 
 
 
-  
-
-### Control Flow Diagram
 
 
   
@@ -94,6 +91,9 @@ Open up terminal and navigate to the directory that contains the terminal app fi
 
 ### Screenshots:
 
+![alt text](mainmenu.png)
+
+![alt text](musicgenre.png)
 
 
 ### User Stories
