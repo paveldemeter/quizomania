@@ -17,7 +17,7 @@ Do your kids always play games that have no benefit to them?
 Let me introduce to you..
 #### Quiz-O-Mania
 
-![alt text](Welcomequiz.png)
+![alt text](screenshots/Welcomequiz.png)
 Quiz-O-Mania is a single player multiple choice Quiz game that ensures you are both having fun & learning something new! It is very easy to use so any player of any age can play as it includes a HELP menu & provides direct instructions on how to play the game.
 
 Anybody can play this game as no one is old enough to stop learning. You will have different Genre's to choose from such as Music, History & Movies. Each question will have four options for answers, But be careful.. Some are tricky!
