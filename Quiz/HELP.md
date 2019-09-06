@@ -39,7 +39,7 @@ To navigate through the application, There is a help option if you press 2 on yo
 
 The main inputs are (Y) , 1, 2, 3 & ANY other key( Meaning input anything else besides whats being displayed on the screen.
 
-### Written expFeatures
+### Written Features
 
 
 The main application features are HELP, Genre  selection  & Score.
