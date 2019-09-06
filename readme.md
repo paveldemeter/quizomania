@@ -93,28 +93,28 @@ Open up terminal and navigate to the directory that contains the terminal app fi
 
 ### Screenshots:
 
-![alt text](mainmenu.png)
+![alt text](screenshots/mainmenu.png)
 
-![alt text](musicgenre.png)
+![alt text](screenshots/musicgenre.png)
 
 
 ### User Stories
-![alt text](implementation4.png)
+![alt text](screenshots/implementation4.png)
 
 ## Implementation plan
 
 
 
-![alt text](implementation1.png)
-![alt text](implementation2.png)
-![alt text](implementation3.png)
-![alt text](implementation4.png)
+![alt text](screenshots/implementation1.png)
+![alt text](screenshots/implementation2.png)
+![alt text](screenshots/implementation3.png)
+![alt text](screenshots/implementation4.png)
 
   
   
 
 ### User Workflow
-![alt text](workflowdiagram.png)
+![alt text](screenshots/workflowdiagram.png)
   
 
   
@@ -269,7 +269,7 @@ Changed into
 
 exit  unless  input  ==  'y'
 
-![alt text](testscreenshot.png)
+![alt text](screenshots/testscreenshot.png)
 
 
 User closed terminal, Ran app again & proceeded to end of quiz.
