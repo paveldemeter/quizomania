@@ -1,3 +1,6 @@
+#this is the actual test, the other test is a physical test by a user interacting with the program, which is in the tests folder or the readme.
+
+
 require 'test/unit'
 require_relative '../question_class'
 
@@ -32,3 +35,5 @@ class QuestionTest < Test::Unit::TestCase
     assert_equal(false, @question.check_answer?("Wrong Answer"))
   end
 end
+
+
